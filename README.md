@@ -33,7 +33,7 @@ Here's an overview of my current skill set:
   </tr>
   <tr>
     <td>Python</td>
-    <td>78%</td>
+    <td>64%</td>
   </tr>
   <tr>
     <td>HTML</td>
