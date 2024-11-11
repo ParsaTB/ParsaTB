@@ -1,6 +1,6 @@
 # Hello there, I'm ParsaTB👋
 
-a 16-year-old computer science enthusiast,
+a 17-year-old computer science enthusiast,
 I have been exploring the world of programming for nearly 2 years.
 This repository serves as a showcase of my work samples, and I am excited to share my journey as I continue to develop my skills and take on new projects.
 Welcome to my GitHub repository!
@@ -14,7 +14,7 @@ Welcome to my GitHub repository!
   </tr>
   <tr>
     <td><b>Age</b></td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td><b>Education</b></td>
@@ -33,7 +33,7 @@ Here's an overview of my current skill set:
   </tr>
   <tr>
     <td>Python</td>
-    <td>64%</td>
+    <td>84%</td>
   </tr>
   <tr>
     <td>HTML</td>
@@ -45,7 +45,15 @@ Here's an overview of my current skill set:
   </tr>
   <tr>
     <td>JavaScript</td>
-    <td>27%</td>
+    <td>77%</td>
+  </tr>
+  <tr>
+    <td>ReactJs</td>
+    <td>63%</td>
+  </tr>
+  <tr>
+    <td>Django</td>
+    <td>5%</td>
   </tr>
   <tr>
     <td>C#</td>
@@ -59,12 +67,7 @@ I'm actively working on developing work samples to demonstrate my programming ca
 
 ## Contact Me 📬
 
-- Email: parsatb431@gmail.com
-
-## Fun Facts 🎉
-
-- Hobbies: Coding, Reading, Gaming
-- Favorite Quote: "Your favorite quote."
+- Email: parsatborg@gmail.com
 
 ### My GitHub Stats
 
