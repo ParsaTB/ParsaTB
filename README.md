@@ -49,11 +49,19 @@ Here's an overview of my current skill set:
   </tr>
   <tr>
     <td>ReactJs</td>
-    <td>63%</td>
+    <td>73%</td>
+  </tr>
+  <tr>
+    <td>TypeScript</td>
+    <td>22%</td>
+  </tr>
+  <tr>
+    <td>Php</td>
+    <td>14%</td>
   </tr>
   <tr>
     <td>Django</td>
-    <td>5%</td>
+    <td>53%</td>
   </tr>
   <tr>
     <td>C#</td>
