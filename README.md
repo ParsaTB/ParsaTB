@@ -5,23 +5,6 @@ I have been exploring the world of programming for nearly 2 years.
 This repository serves as a showcase of my work samples, and I am excited to share my journey as I continue to develop my skills and take on new projects.
 Welcome to my GitHub repository!
 
-## About Me 📌
-
-<table>
-  <tr>
-    <td><b>Name</b></td>
-    <td>ParsaTB</td>
-  </tr>
-  <tr>
-    <td><b>Age</b></td>
-    <td>17</td>
-  </tr>
-  <tr>
-    <td><b>Education</b></td>
-    <td>High School</td>
-  </tr>
-</table>
-
 ## Skills 🚀
 
 Here's an overview of my current skill set:
