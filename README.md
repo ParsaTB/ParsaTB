@@ -1,6 +1,6 @@
 # Hello there, I'm ParsaTB👋
 
-a 17-year-old computer science enthusiast,
+a 18-year-old computer science enthusiast,
 I have been exploring the world of programming for nearly 2 years.
 This repository serves as a showcase of my work samples, and I am excited to share my journey as I continue to develop my skills and take on new projects.
 Welcome to my GitHub repository!
@@ -49,19 +49,23 @@ Here's an overview of my current skill set:
   </tr>
   <tr>
     <td>ReactJs</td>
-    <td>73%</td>
+    <td>83%</td>
+  </tr>
+  <tr>
+    <td>NextJS</td>
+    <td>76%</td>
   </tr>
   <tr>
     <td>TypeScript</td>
-    <td>22%</td>
+    <td>74%</td>
   </tr>
   <tr>
     <td>Php</td>
-    <td>14%</td>
+    <td>15%</td>
   </tr>
   <tr>
     <td>Django</td>
-    <td>53%</td>
+    <td>73%</td>
   </tr>
   <tr>
     <td>C#</td>
