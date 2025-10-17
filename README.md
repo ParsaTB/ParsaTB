@@ -1,87 +1,54 @@
-# Hello there, I'm ParsaTB👋
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/ParsaTB">ParsaTB</a></h1>
+<h3 align="center">💻 18-Year-Old Developer - Passionate About Code, Design, and Growth</h3>
 
-a 18-year-old computer science enthusiast,
-I have been exploring the world of programming for nearly 2 years.
-This repository serves as a showcase of my work samples, and I am excited to share my journey as I continue to develop my skills and take on new projects.
-Welcome to my GitHub repository!
+<p align="center">
+  <a href="https://github.com/ParsaTB">
+    <img src="https://komarev.com/ghpvc/?username=ParsaTB&label=Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/ParsaTB?tab=followers">
+    <img src="https://img.shields.io/github/followers/ParsaTB?label=Followers&style=flat-square" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/ParsaTB?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ParsaTB?label=Stars&style=flat-square" alt="GitHub Stars"/>
+  </a>
+</p>
 
-## Skills 🚀
+---
 
-Here's an overview of my current skill set:
+## 🧠 About Me
 
-<table>
-  <tr>
-    <td><b>Language</b></td>
-    <td><b>Proficiency</b></td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>84%</td>
-  </tr>
-  <tr>
-    <td>HTML</td>
-    <td>97%</td>
-  </tr>
-  <tr>
-    <td>CSS</td>
-    <td>93%</td>
-  </tr>
-  <tr>
-    <td>JavaScript</td>
-    <td>77%</td>
-  </tr>
-  <tr>
-    <td>ReactJs</td>
-    <td>83%</td>
-  </tr>
-  <tr>
-    <td>NextJS</td>
-    <td>76%</td>
-  </tr>
-  <tr>
-    <td>TypeScript</td>
-    <td>74%</td>
-  </tr>
-  <tr>
-    <td>Php</td>
-    <td>15%</td>
-  </tr>
-  <tr>
-    <td>Django</td>
-    <td>73%</td>
-  </tr>
-  <tr>
-    <td>C#</td>
-    <td>59%</td>
-  </tr>
-</table>
+I'm **Parsa**, an 18-year-old **computer science enthusiast** who’s been coding for nearly two years.  
+I love exploring new technologies, building creative projects, and sharing my learning journey with the world.
 
-## Projects 🚧
+---
 
-I'm actively working on developing work samples to demonstrate my programming capabilities. Stay tuned for updates on new projects!
+## ⚙️ Skills
 
-## Contact Me 📬
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,typescript,react,nextjs,django,php,cs" alt="Skills Icons" />
+</p>
 
-- Email: parsatborg@gmail.com
+---
 
-### My GitHub Stats
+## 🚧 Projects
 
-<table>
-    <tr>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=ParsaTB&row=3&column=4&no-bg=true"/>
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParsaTB"/>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=ParsaTB&count_private=true&show_icons=true&theme=tokyonight"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaTB&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-        </td>
-    </tr>
-</table>
-<!-- Your additional sections can go here -->
+I'm working on several projects to showcase my skills in web and software development.  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParsaTB&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParsaTB&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaTB&layout=compact&theme=tokyonight&hide=php,scss,css,html" height="150" alt="Top Languages"/>
+</p>
+
+---
+
+## 📬 Contact
+
+📧 **Email:** [parsatborg@gmail.com](mailto:parsatborg@gmail.com)
